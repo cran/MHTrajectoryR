@@ -1,0 +1,15 @@
+604cf9055df6e55a56a0ae4a3390192b *DESCRIPTION
+0bef5d0c8272f76432d1fdb85a691a3a *NAMESPACE
+b899f159e423506f15228020031e82ad *R/Analyze_oneAE.R
+285d7287fb99012273c306ae8a5446cc *R/ExhaustiveLogisticw.R
+c5122fddc2a24a5c494a63613469ec6b *R/FindSignals.R
+70e49e65dca27fac268b9d6b952970d8 *R/MHLogisticw.R
+f2a8111579228011d3666f5d61ba8fcf *R/MatchOmop.R
+a1bc89848ada083324e934030eabef1d *data/OmopReference.rda
+6065ae5c5be4f1cb61676a20b613eda9 *data/exampleAE.rda
+d260de0f06166d7a0a9f4c15c9e0f6ea *data/exampleDrugs.rda
+6e56bf941a235cedb1239557e6d4a2f8 *man/Analyze_oneAE.Rd
+eee87ad2b6d19696f527b91cdcdd4b41 *man/MHTrajectoryR-package.Rd
+1c7821bf95b9d563fb924e6744016cb1 *man/OmopReference.Rd
+0f25cb1c3a60cca61585e7407938821c *man/exampleAE.Rd
+dd2e10ce56c0c5beffddba5199432311 *man/exampleDrugs.Rd
